@@ -9,7 +9,7 @@ section{
  	right: 100px;
 }
 .contenedor {
-	background:white;
+	background:  #F0B429;
 	width:90%;
 	max-width:1000px;
 	margin:auto;
@@ -17,11 +17,11 @@ section{
 	flex-flow:row wrap;
 } 
 body {
-	background:grey;
+	background: #005883;
 }
  
 header {
-	background: rgb(190, 179, 179);
+	background: #b3b3b3;
 	width:100%;
 	padding:20px;
  	display: flex;
@@ -66,7 +66,7 @@ header nav {
 }
  
 header nav a {
-	background:orangered;
+	background: #808080;
 	color:#fff;
 	text-align: center;
 	text-decoration: none;
@@ -75,7 +75,7 @@ header nav a {
 }
  
 header nav a:hover {
-	background:#e74c3c;
+	background:#F47920;
 }
 
 main izquierda {
@@ -111,13 +111,13 @@ aside {
 }
  
 aside .widget {
-	background: #d35400;
+	background: #F47920;
 	height:150px;
 	margin:10px;
 }
  
 footer {
-	background:#005883;
+	background: #f0b429;;
 	width: 100%;
 	padding:20px;
  	display: flex;
